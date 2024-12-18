@@ -18,7 +18,7 @@ Bienvenido a este blog-tutorial donde encontrarás información clara y sencilla
 
 ## Índice de Contenidos
 
-1. [¿Qué es Liferay?](_posts/que-es-liferay.md)
+1. [¿Qué es Liferay?](_posts/que-es-liferay.html)
 2. [Instalación y configuración inicial](posts/instalacion-y-configuracion.md)
 3. [Crear tu primer proyecto con Eclipse](posts/primer-proyecto-eclipse.md)
 4. [Personalización de temas](posts/personalizacion-temas.md)
