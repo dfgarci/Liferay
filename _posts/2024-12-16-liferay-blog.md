@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Que es Liferay"
 date: 2024-12-14
 categories: [DXP, liferay, tutorial, git]
