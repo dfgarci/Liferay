@@ -24,10 +24,10 @@ En esta guía aprenderás cómo instalar Liferay y configurar tu entorno de desa
      ```bash
      java -version
      ```
-   - Si no lo tienes instalado, descárgalo desde [Oracle JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) o usa una alternativa como OpenJDK.
+   - Si no lo tienes instalado, descárgalo desde [Oracle JDK](https://www.oracle.com/es/java/technologies/javase/javase8-archive-downloads.html) o usa una alternativa como OpenJDK.
 
 ### Eclipse IDE
-1. Descarga e instala [Eclipse IDE para desarrolladores Java EE](https://www.eclipse.org/downloads/).
+1. Descarga e instala [Eclipse IDE para desarrolladores Java EE](https://eclipseide.org/).
 2. Instala el plugin de Liferay:
    - Ve a `Help > Eclipse Marketplace`.
    - Busca `Liferay IDE` e instálalo.
