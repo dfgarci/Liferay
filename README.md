@@ -20,19 +20,20 @@ Link del blog: [https://dfgarci.github.io/Liferay/]
 ---
 
 ## ¿Qué es Liferay?
-Liferay es una plataforma de código abierto utilizada principalmente para desarrollar portales web, intranets y soluciones digitales personalizadas. Este tutorial te guiará paso a paso para que entiendas los conceptos clave y puedas comenzar a trabajar con él.
+
+Liferay es una poderosa plataforma de código abierto, utilizada principalmente para la creación de portales web, intranets y diversas soluciones de experiencia digital (DXP) personalizadas. Este tutorial te mostrará cómo Liferay se centra en ofrecer experiencias de usuario finales atractivas y personalizadas, a la vez que proporciona a los desarrolladores una completa gama de herramientas para construir soluciones robustas y escalables. Aprenderás paso a paso los conceptos clave para comenzar a trabajar con Liferay y aprovechar al máximo sus capacidades.
 
 
 ## Requisitos previos
 Antes de comenzar, asegúrate de contar con lo siguiente:
-- **Java JDK 8** instalado y configurado en tu sistema.
+- **Java JDK 8** instalado y configurado en tu sistema (Variables de entorno).
 - **Eclipse IDE** con el plugin de Liferay configurado.
 - Conexión estable a Internet para descargar herramientas y dependencias.
 - Ganas de aprender y explorar.
 
 ## Instalación y configuración inicial
 Esta sección te guiará para:
-1. Descargar Liferay y su entorno de desarrollo.
+1. Descargar Liferay y su entorno de desarrollo (local o docker).
 2. Configurar el servidor de aplicaciones local (tomcat).
 3. Verificar que todo esté funcionando correctamente.
 
