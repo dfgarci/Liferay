@@ -1,5 +1,4 @@
 ---
-
 title: Liferay: Todo lo que necesitas para empezar
 ---
 
