@@ -4,6 +4,7 @@ title: "Que es Liferay"
 date: 2024-12-14
 categories: [DXP], [liferay], [tutorial], [git]
 ---
+
 # ¿Qué es Liferay?
 
 Liferay es una plataforma de desarrollo de portales web que permite crear soluciones digitales personalizadas, desde intranets corporativas hasta sitios web públicos. Es ampliamente utilizado por su flexibilidad, escalabilidad y su comunidad activa.
