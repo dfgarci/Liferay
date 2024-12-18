@@ -42,6 +42,12 @@ En esta guía aprenderás cómo instalar Liferay y configurar tu entorno de desa
 3. Ejecuta el archivo para iniciar el servidor. Una vez iniciado, accede a:
 
    ___https://localhost:8080___
+   
+   Encontraras esta vista:
+
+   ![image](https://github.com/user-attachments/assets/774c8fbe-2773-40ca-ae85-406f86d8bfbf)
+
+
 
 5. Sigue las instrucciones en pantalla para crear un usuario administrador.
 
