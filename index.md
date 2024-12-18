@@ -1,5 +1,6 @@
 ---
-title: Liferay: Todo lo que necesitas para empezar
+layout: default
+title: "Liferay: Todo lo que necesitas para empezar"
 ---
 
 # Liferay: Todo lo que necesitas para empezar
