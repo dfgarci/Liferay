@@ -14,7 +14,7 @@ En esta guía aprenderás cómo instalar Liferay y configurar tu entorno de desa
 ## 1. Descarga de Liferay y herramientas necesarias
 
 ### Liferay Portal
-1. Ve a la página oficial de [descargas de Liferay](https://www.liferay.com/downloads).
+1. Ve a la página oficial de [descargas de Liferay](https://www.liferay.com/es/downloads-community).
 2. Selecciona la versión **Community Edition** más reciente.
 3. Descarga el paquete `Tomcat Bundle` para una instalación rápida.
 
