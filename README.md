@@ -2,6 +2,7 @@
 
 Hola, este blog-tutorial esta pensado para aprender los conceptos básicos de Liferay y cómo trabajar con él de manera local utilizando Eclipse. Este proyecto está pensado especialmente para aquellos que buscan contenido en español y desean comenzar sin frustraciones y con toda la ayuda.
 
+Link del blog: [https://dfgarci.github.io/Liferay/]
 ---
 
 ## Índice
