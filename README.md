@@ -6,7 +6,7 @@ Bienvenido a este blog-tutorial donde aprenderás los conceptos básicos de Life
 
 ## Índice
 
-1. [¿Qué es Liferay?](#qué-es-liferay)
+1. ___[¿Qué es Liferay?]___(#qué-es-liferay)
 2. [Requisitos previos](#requisitos-previos)
 3. [Instalación y configuración inicial](#instalación-y-configuración-inicial)
 4. [Creación de un proyecto en Liferay con Eclipse](#creación-de-un-proyecto-en-liferay-con-eclipse)
