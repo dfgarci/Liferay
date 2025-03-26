@@ -21,11 +21,15 @@ Liferay es un **portal empresarial** basado en Java que permite crear sitios web
 
 ## Instalación y Configuración en Windows
 
-Para instalar Liferay de manera local en Windows, sigue estos pasos:
+Para instalar Liferay de manera local en Windows, sigue estos pasos junto con la guía de este video:
+
+https://www.youtube.com/watch?v=hkupt1WJXCo&ab_channel=OpenWebinars
 
 ### **1. Descargar Liferay**
 
 - Visita la [página oficial de Liferay](https://www.liferay.com/downloads) y elige la versión Community Edition (CE) o DXP.
+- O visite su página en Github para revisar versiones anteriores:
+-   (https://github.com/liferay/liferay-portal/releases)
 - Descarga la opción con **Tomcat**, que es la más sencilla para comenzar.
 
 ### **2. Extraer el archivo descargado**
