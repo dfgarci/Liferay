@@ -21,7 +21,7 @@ Bienvenido a este blog-tutorial donde encontrarás información clara y sencilla
 
 1. [¿Qué es Liferay?](_posts/2024-12-16-liferay-blog.md)
 2. [Instalación y configuración inicial](_posts/2025-02-20-instalacion.2.0.md)
-3. [Crear tu primer proyecto con Eclipse](posts/primer-proyecto-eclipse.md)
+3. [Crear tu primer portlet en Eclipse](posts/2025-03-26-Portlet.md)
 4. [Personalización de temas](posts/personalizacion-temas.md)
 5. [Publicar tu proyecto](posts/publicar-proyecto.md)
 
