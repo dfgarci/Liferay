@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instalación y configuración inicial"
-date: 2024-12-16
+date: 2025-03-21
 categories: [liferay, instalación, tutorial, Eclipse]
 ---
 
@@ -75,17 +75,37 @@ jdbc.default.username=liferay
 jdbc.default.password=password
 ```
 
-### **5. Ejecutar Liferay en Windows**
+### **5. Ejecutar Liferay en Eclipse**
 
-Dirígete a la carpeta `tomcat/bin` dentro de la instalación de Liferay y ejecuta:
+Crea un **Worckspace** en la carpeta 
 
-```sh
-startup.bat
+```plaintext
+C:\Liferay\nombre-del-workspace
 ```
 
-Si ves un error de permisos, prueba ejecutarlo como administrador.
+Abre Eclipse con el **Worckspace** establecido 
 
-### **6. Acceder a Liferay**
+![image](https://github.com/user-attachments/assets/5d8a7140-1545-4e1f-8156-4ab85443c66b)
+
+Ahora seleciona **New Liferay Workspace**
+
+![image](https://github.com/user-attachments/assets/bda8591a-9095-4a66-8302-e98f62e391dd)
+
+Luego de nombrar el nuevo entorno selecciona abrir con perspectiva de entorno y tendras una vista asi:
+
+![image](https://github.com/user-attachments/assets/d48ba29a-34a2-4efa-bd45-44d0bdfa58fa)
+
+Luego agrega un nuevo servidor y selecciona tipo de servidor **Liferay 7.x** y configura el **Directorio del Bundle de Liferay Portal** y el **JRE runtime**
+
+![image](https://github.com/user-attachments/assets/c6c9c0e5-93b2-4855-b6c9-61418c7bd149)
+
+![image](https://github.com/user-attachments/assets/284864db-25d5-4da4-94b5-80c56c327151)
+
+**Nota: la version de JAVA instalada y configurada en las variables de entorno deben ser las mismas del JRE runtime del servidor y del compilador de Eclipse**
+
+Una vez configurado el servidor **Ejecutar**, el resultado sera:
+
+![image](https://github.com/user-attachments/assets/97ea223c-e769-4a24-8ca0-c6c6c1d77f64)
 
 Abre tu navegador y visita:
 
