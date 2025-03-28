@@ -23,7 +23,8 @@ Bienvenido a este blog-tutorial donde encontrarás información clara y sencilla
 2. [Instalación y configuración inicial](_posts/2025-02-20-instalacion.2.0.md)
 3. [Crear tu primer portlet en Eclipse](posts/2025-03-26-Portlet.md)
 4. [Personalización de temas](posts/2025-03-27-CSS.md)
-5. [Publicar tu proyecto](posts/publicar-proyecto.md)
+5. [Integración con APIs en Liferay](post/2025-03-27-APIS.md)
+6. [Publicación.](posts/2025-03-27-Publicación.md)
 
 ---
 
